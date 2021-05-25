@@ -5,15 +5,15 @@ A comprehensive "intro to Netlify" video.
 google-fu
 inurl:ftp inurl:web.config filetype:config
 
-Part 1: Netlify Edge https://youtu.be/gGjRrjz0KVE
-Part 2: Netlify Build https://youtu.be/d3TQUan1UTk
-Part 3: Netlify Dev https://youtu.be/2FstPfDizZY
-Part 4: Netlify Forms https://youtu.be/XbtJaSduuyQ
-Part 5: Netlify Identity https://youtu.be/fIOxUy-2rxw
-Part 6: NetlifyCMS https://youtu.be/Sl2kF-7w6G0
-Part 7: Netlify Addons https://youtu.be/Ht9WUloWTlg
-Part 8: Netlify API https://youtu.be/9_4Bfg8MoNM
-Part 9: Learn More https://youtu.be/CaVmJIfzR7k
+* Part 1: Netlify Edge https://youtu.be/gGjRrjz0KVE
+* Part 2: Netlify Build https://youtu.be/d3TQUan1UTk
+* Part 3: Netlify Dev https://youtu.be/2FstPfDizZY
+* Part 4: Netlify Forms https://youtu.be/XbtJaSduuyQ
+* Part 5: Netlify Identity https://youtu.be/fIOxUy-2rxw
+* Part 6: NetlifyCMS https://youtu.be/Sl2kF-7w6G0
+* Part 7: Netlify Addons https://youtu.be/Ht9WUloWTlg
+* Part 8: Netlify API https://youtu.be/9_4Bfg8MoNM
+* Part 9: Learn More https://youtu.be/CaVmJIfzR7k
 
 ## Deploy
 
@@ -23,12 +23,12 @@ Part 9: Learn More https://youtu.be/CaVmJIfzR7k
 
   - Netlify CLI
   
-    - Installation:
+    * Installation:
     
       `yarn global add netlify-cli`
       or `npm i -g netlify-cli`
 
-    - Initialization:
+    * Initialization:
 
      `netlify init`
      
@@ -72,13 +72,11 @@ Part 9: Learn More https://youtu.be/CaVmJIfzR7k
      
         netlify init
 
-    ```
-    
-    - Login:
+    * Login:
       `netlify login` or `ntl login`
-    - Deploy:
+    * Deploy:
       `ntl deploy`
-    - All commands: `netlify help`
+    * All commands: `netlify help`
     
     Netlify command line tool
 
